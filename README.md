@@ -7,4 +7,6 @@ firfox 58.0.1
 
     
 执行 python info.py
-扫码登录后,进入1688买家工作台（https://work.1688.com/home/page/index.htm）后开始正常工作
+
+弹出扫码登录界面，登录后,进入1688买家工作台 https://work.1688.com/home/page/index.htm
+后根据./data/info.csv中1688商品id自动抓取
