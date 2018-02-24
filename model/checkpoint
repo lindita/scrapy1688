@@ -1,0 +1,6 @@
+model_checkpoint_path: "crack_capcha.model-27200"
+all_model_checkpoint_paths: "crack_capcha.model-26900"
+all_model_checkpoint_paths: "crack_capcha.model-27000"
+all_model_checkpoint_paths: "crack_capcha.model-27100"
+all_model_checkpoint_paths: "crack_capcha.model-27200"
+all_model_checkpoint_paths: "crack_capcha.model-27300"
